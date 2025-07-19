@@ -1,0 +1,8 @@
+google-generativeai
+playwright
+chromadb
+pydub
+speechrecognition
+transformers
+tqdm
+pyttsx3
